@@ -1,0 +1,77 @@
+.title h2{
+	text-align: center;
+	font-family: impact;
+	font-size: 25pt;
+	color: #555a63;
+}
+.title h2 span{
+	color: #15c0c6;
+}
+.navbar input{
+	margin-left: 480px;
+	width: 250px;
+	text-align: center;
+	font-family: monospace;
+
+}
+.recent{
+	background: url(wood.jpg);
+	height: 900px;
+	padding-top:px;
+}
+
+
+.recent {
+	padding-bottom: 80px;
+	font-family: sans-serif,impact;
+	text-align: center;
+}
+.recent img{
+	margin-top: 25px;
+	width: 250px;
+	height: 250px;
+	border-radius: 300px;
+}
+
+.hewan{
+	margin-top: 10px;
+	padding-bottom: 20px;
+	background-color: rgba(206, 210, 219,0.5) ;
+}
+.hewan p{
+	text-align: left;
+	margin-top: 15px;
+	margin-left: 50px;
+	padding-left: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #ffffff;
+	background-color: rgba(43, 45, 45,0.7);
+}
+.akun ul{
+	background-color: rgba(249, 250, 252, 0.7);
+}
+.akun li{
+	width: 300px;
+
+	padding-left: 15px;
+	padding-right:15px;
+	text-align: center;
+	font-size: 10pt;
+}
+.row{
+	width: 890px;
+	height: 310px;
+}
+
+.akun img{
+	margin-top: 10px;
+	margin-bottom: 10px; 
+	height: 170px;
+	width: 170px;
+	background-color: grey;
+	border-radius: 150px;
+}
+.dropdown a{
+	margin-top: 10px;
+}

@@ -1,0 +1,103 @@
+.title{
+	height: 90px;
+	background-color: grey;
+}
+.title h2 {
+	color: #ffffff;
+	font-family: impact;
+	text-align: left;
+	margin-top: 25px;
+	float: left;
+	font-size: 25pt;
+}
+.title h2 span{
+	color:#36e2c9 ;
+}
+.title button{
+	margin-top: 30px;
+	margin-left: 1000px;
+}
+.tabel{
+	margin-left: 80px; 
+	width: 900px;
+	padding-top: 20px;
+	padding-bottom: 15px;
+	background-color: #eff5ff;
+	box-shadow: 1.5px 1.5px grey;
+}
+.tabel img{
+	margin-left: 15px;
+	width: 145px ;
+	height:90px;
+}
+.tabel table{
+	font-family: arial ;
+	text-align: left;
+	width: 800px;
+	margin-left: 150px;
+}
+.tabel table td{
+	height: 30px;
+	color: grey;
+}
+.tabel table td button{
+	margin-top: 60px;
+}
+
+.animal{
+	margin-top: 15px;
+	width: 300px;
+	box-shadow: 1px 1px grey;
+}
+.animal p{
+	width: 200px;
+	margin-left: 60px;
+}
+.animal img{
+	margin-left: 70px;
+	margin-top:10px ;
+	margin-bottom:10px ;
+	width: 150px ;
+	height: 150px;
+	border-radius: 600px;
+}
+.animal h3{
+	text-align: center;
+}
+.dropdown ul{
+	width: 250px;
+	background-color: rgba(249, 250, 252, 0.6);
+	margin-left: 830px;
+}
+.dropdown li{
+	width: 200px;
+	padding-left: 15px;
+	padding-right:15px;
+	text-align: center;
+	font-size: 10pt;
+}
+.dropdown{
+	margin-left: 10px;
+	float: right;
+}
+
+.row{
+	width: 735px;
+	height: 310px;
+}
+
+.dropdown img{
+	margin-top: 10px;
+	margin-bottom: 10px; 
+	height: 170px;
+	width: 170px;
+	background-color: grey;
+	border-radius: 150px;
+}
+.dropdown a{
+	margin-top: 10px;
+}
+
+
+
+

@@ -1,0 +1,49 @@
+.title{
+	height: 90px;
+	background-color: grey;
+}
+.title h2 {
+	color: #ffffff;
+	font-family: impact;
+	text-align: left;
+	margin-top: 25px;
+	float: left;
+	font-size: 25pt;
+}
+.title h2 span{
+	color:#36e2c9 ;
+}
+.title button{
+	margin-top: 30px;
+	margin-left: 1100px;
+}
+.tabel{
+	margin-left: 80px; 
+	width: 900px;
+	padding-top: 20px;
+	padding-bottom: 15px;
+	background-color: #eff5ff;
+	box-shadow: 1.5px 1.5px grey;
+}
+.tabel img{
+	margin-left: 15px;
+	width: 145px ;
+	height:90px;
+}
+.tabel table{
+	font-family: arial ;
+	text-align: left;
+	width: 800px;
+	margin-left: 150px;
+}
+.tabel table td{
+	height: 30px;
+	color: grey;
+}
+.tabel table td button{
+	margin-top: 60px;
+}
+
+
+
+

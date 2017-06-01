@@ -1,0 +1,91 @@
+.title h2{
+	text-align: center;
+	font-family: impact;
+	font-size: 25pt;
+	color: #555a63;
+}
+.title h2 span{
+	color: #15c0c6;
+}
+.navbar input{
+	margin-left: 460px;
+	width: 250px;
+	text-align: center;
+	font-family: monospace;
+
+}
+.recent{
+	background: url(wood.jpg);
+	height: 900px;
+	padding-top:px;
+}
+
+
+.recent {
+	padding-bottom: 80px;
+	font-family: sans-serif,impact;
+	text-align: center;
+}
+.recent img{
+	margin-top: 25px;
+	width: 250px;
+	height: 250px;
+	border-radius: 300px;
+}
+
+.hewan{
+	margin-top: 10px;
+	padding-bottom: 20px;
+	background-color: rgba(206, 210, 219,0.5) ;
+}
+.hewan p{
+	text-align: left;
+	margin-top: 15px;
+	margin-left: 50px;
+	padding-left: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #ffffff;
+	background-color: rgba(43, 45, 45,0.7)
+}
+.akun ul{
+		padding-bottom: 10px;
+		background-color: rgba(249, 249, 249,0.5);
+}
+.akun li{
+	width: 300px;
+	padding-left: 15px;
+	padding-right:20px;
+	text-align: left;
+	font-size: 10pt;
+}
+.akun h4{
+	text-align: center;
+	font-family: impact;
+	font-size: 15pt;
+	color: #4b4f4e;
+}
+
+.akun h4 span{
+	color: #47d8d6;
+}
+.akun img{
+	margin-top: 10px;
+	margin-bottom: 10px; 
+	height: 170px;
+	width: 150px;
+	background-color: grey;
+	border-radius: 200px;
+}
+.akun input{
+	margin-left: 10px;
+	text-align: left;
+}
+.akun button{
+	margin-left: 15px;
+}
+.akun a{
+	width: 120px;
+	float: left;
+
+}
